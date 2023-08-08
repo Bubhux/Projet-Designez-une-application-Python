@@ -1,3 +1,6 @@
+![Static Badge](https://img.shields.io/badge/USE-draw-blue?style=for-the-badge&logo=diagramsdotnet) ![Static Badge](https://img.shields.io/badge/USE-NOTION-blue?style=for-the-badge&logo=notion)
+
+
 # Menu   
 1. **Informations générales**   
 2. **Objectifs du projet**   
