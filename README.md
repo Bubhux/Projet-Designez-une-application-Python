@@ -1,14 +1,5 @@
-<<<<<<< HEAD
-=======
-![Static Badge](https://img.shields.io/badge/USE-draw-blue?style=for-the-badge&logo=diagramsdotnet) ![Static Badge](https://img.shields.io/badge/USE-NOTION-blue?style=for-the-badge&logo=notion)
 
-
-# Menu   
-1. **Informations générales**   
-2. **Objectifs du projet**   
-3. **Table des matières**   
-4. **Auteurs et contact**   
->>>>>>> 589c9c7d97b5f400d31ee25f03fc658b9364051f
+![Static Badge](static/badge/use-draw-blue.svg) ![Static Badge](static/badges/use-notion-blue.svg)
 
 <div id="top"></div>
 
