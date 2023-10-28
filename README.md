@@ -1,5 +1,5 @@
 
-![Static Badge](static/badge/use-draw-blue.svg) ![Static Badge](static/badges/use-notion-blue.svg)
+![Static Badge](static/badges/use-draw-blue.svg) ![Static Badge](static/badges/use-notion-blue.svg)
 
 <div id="top"></div>
 
